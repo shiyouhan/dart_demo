@@ -3,5 +3,5 @@ String greet(String name) {
 }
 
 void main() {
-  printgreet('张三');
+  print(greet('张三'));
 }

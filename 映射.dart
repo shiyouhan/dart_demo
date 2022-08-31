@@ -6,5 +6,5 @@ void main() {
   gifts['third'] = 'JavaScript';
   print(gifts.length);
 
-  print(girfts['first']);
+  print(gifts['first']);
 }
